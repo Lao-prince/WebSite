@@ -1,0 +1,452 @@
+[
+  {
+    "id": 1,
+    "full_name": "Иванов Иван Иванович",
+    "position": "Руководитель отдела",
+    "birth_date": "1980-05-20",
+    "start_date": "2005-03-15",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 19
+  },
+  {
+    "id": 2,
+    "full_name": "Смирнова Анна Александровна",
+    "position": "Менеджер по продажам",
+    "birth_date": "1990-07-12",
+    "start_date": "2015-04-20",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 7
+  },
+  {
+    "id": 3,
+    "full_name": "Петров Петр Дмитриевич",
+    "position": "Инженер",
+    "birth_date": "1985-09-30",
+    "start_date": "2010-10-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 7
+  },
+  {
+    "id": 4,
+    "full_name": "Кузнецова Мария Андреевна",
+    "position": "Бухгалтер",
+    "birth_date": "1987-03-25",
+    "start_date": "2012-11-15",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 8
+  },
+  {
+    "id": 5,
+    "full_name": "Соколов Дмитрий Владимирович",
+    "position": "Системный администратор",
+    "birth_date": "1992-06-18",
+    "start_date": "2018-08-10",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 8
+  },
+  {
+    "id": 6,
+    "full_name": "Лебедева Екатерина Викторовна",
+    "position": "Программист",
+    "birth_date": "1994-11-05",
+    "start_date": "2019-01-20",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 19
+  },
+  {
+    "id": 7,
+    "full_name": "Морозов Сергей Степанович",
+    "position": "Аналитик",
+    "birth_date": "1983-12-10",
+    "start_date": "2010-05-25",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 7
+  },
+  {
+    "id": 8,
+    "full_name": "Волкова Ольга Васильевна",
+    "position": "Менеджер проектов",
+    "birth_date": "1989-08-15",
+    "start_date": "2014-07-30",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 19
+  },
+  {
+    "id": 9,
+    "full_name": "Зайцев Павел Викторович",
+    "position": "Аналитик",
+    "birth_date": "1986-04-10",
+    "start_date": "2016-03-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 4
+  },
+  {
+    "id": 10,
+    "full_name": "Попова Наталья Петровна",
+    "position": "Менеджер",
+    "birth_date": "1991-07-14",
+    "start_date": "2018-06-15",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 4
+  },
+  {
+    "id": 11,
+    "full_name": "Сергеева Ольга Дмитриевна",
+    "position": "Специалист по маркетингу",
+    "birth_date": "1995-11-20",
+    "start_date": "2020-02-10",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 4
+  },
+  {
+    "id": 12,
+    "full_name": "Тихонов Андрей Сергеевич",
+    "position": "Разработчик",
+    "birth_date": "1987-02-14",
+    "start_date": "2013-09-22",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 4
+  },
+  {
+    "id": 13,
+    "full_name": "Ромашова Инна Владимировна",
+    "position": "Ассистент",
+    "birth_date": "1993-05-18",
+    "start_date": "2018-03-10",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 5
+  },
+  {
+    "id": 14,
+    "full_name": "Федоров Алексей Петрович",
+    "position": "Инженер",
+    "birth_date": "1989-09-25",
+    "start_date": "2015-11-05",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 5
+  },
+  {
+    "id": 15,
+    "full_name": "Коваленко Татьяна Сергеевна",
+    "position": "Администратор",
+    "birth_date": "1984-12-15",
+    "start_date": "2009-07-08",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 5
+  },
+  {
+    "id": 16,
+    "full_name": "Миронов Олег Игоревич",
+    "position": "Аналитик",
+    "birth_date": "1992-06-22",
+    "start_date": "2016-03-12",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 5
+  },
+  {
+    "id": 17,
+    "full_name": "Зарецкая Мария Николаевна",
+    "position": "Менеджер",
+    "birth_date": "1990-08-12",
+    "start_date": "2017-05-30",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 6
+  },
+  {
+    "id": 18,
+    "full_name": "Васильева Елена Андреевна",
+    "position": "Секретарь",
+    "birth_date": "1988-01-28",
+    "start_date": "2011-12-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 6
+  },
+  {
+    "id": 19,
+    "full_name": "Семенов Владимир Борисович",
+    "position": "Разработчик",
+    "birth_date": "1982-10-05",
+    "start_date": "2008-09-05",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 6
+  },
+  {
+    "id": 20,
+    "full_name": "Алексеева Юлия Викторовна",
+    "position": "Инженер",
+    "birth_date": "1993-02-15",
+    "start_date": "2014-11-22",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 6
+  },
+  {
+    "id": 21,
+    "full_name": "Яковлев Игорь Павлович",
+    "position": "Аналитик",
+    "birth_date": "1987-09-10",
+    "start_date": "2011-03-10",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 6
+  },
+  {
+    "id": 22,
+    "full_name": "Кириллова Дарья Геннадьевна",
+    "position": "Разработчик",
+    "birth_date": "1995-05-11",
+    "start_date": "2020-07-15",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 7
+  },
+  {
+    "id": 23,
+    "full_name": "Николаев Алексей Игоревич",
+    "position": "Тестировщик",
+    "birth_date": "1990-09-03",
+    "start_date": "2018-02-22",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 8
+  },
+  {
+    "id": 24,
+    "full_name": "Гаврилова Надежда Сергеевна",
+    "position": "Менеджер проектов",
+    "birth_date": "1991-03-28",
+    "start_date": "2017-04-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 8
+  },
+  {
+    "id": 25,
+    "full_name": "Киселев Олег Петрович",
+    "position": "Аналитик",
+    "birth_date": "1986-12-15",
+    "start_date": "2014-05-20",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 26
+  },
+  {
+    "id": 26,
+    "full_name": "Тихонов Андрей Сергеевич",
+    "position": "Разработчик",
+    "birth_date": "1987-02-14",
+    "start_date": "2013-09-22",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 27
+  },
+  {
+    "id": 27,
+    "full_name": "Ромашова Инна Владимировна",
+    "position": "Ассистент",
+    "birth_date": "1993-05-18",
+    "start_date": "2018-03-10",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 27
+  },
+  {
+    "id": 28,
+    "full_name": "Федоров Алексей Петрович",
+    "position": "Инженер",
+    "birth_date": "1989-09-25",
+    "start_date": "2015-11-05",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 26
+  },
+  {
+    "id": 29,
+    "full_name": "Коваленко Татьяна Сергеевна",
+    "position": "Администратор",
+    "birth_date": "1984-12-15",
+    "start_date": "2009-07-08",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 29
+  },
+  {
+    "id": 30,
+    "full_name": "Миронов Олег Игоревич",
+    "position": "Аналитик",
+    "birth_date": "1992-06-22",
+    "start_date": "2016-03-12",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 30
+  },
+  {
+    "id": 31,
+    "full_name": "Зарецкая Мария Николаевна",
+    "position": "Менеджер",
+    "birth_date": "1990-08-12",
+    "start_date": "2017-05-30",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 30
+  },
+  {
+    "id": 32,
+    "full_name": "Васильева Елена Андреевна",
+    "position": "Секретарь",
+    "birth_date": "1988-01-28",
+    "start_date": "2011-12-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 29
+  },
+  {
+    "id": 33,
+    "full_name": "Семенов Владимир Борисович",
+    "position": "Разработчик",
+    "birth_date": "1982-10-05",
+    "start_date": "2008-09-05",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 34
+  },
+  {
+    "id": 34,
+    "full_name": "Алексеева Юлия Викторовна",
+    "position": "Инженер",
+    "birth_date": "1993-02-15",
+    "start_date": "2014-11-22",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 35
+  },
+  {
+    "id": 35,
+    "full_name": "Яковлев Игорь Павлович",
+    "position": "Аналитик",
+    "birth_date": "1987-09-10",
+    "start_date": "2011-03-10",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 35
+  },
+  {
+    "id": 36,
+    "full_name": "Кириллова Дарья Геннадьевна",
+    "position": "Разработчик",
+    "birth_date": "1995-05-11",
+    "start_date": "2020-07-15",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 34
+  },
+  {
+    "id": 37,
+    "full_name": "Николаев Алексей Игоревич",
+    "position": "Тестировщик",
+    "birth_date": "1990-09-03",
+    "start_date": "2018-02-22",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 34
+  },
+  {
+    "id": 38,
+    "full_name": "Гаврилова Надежда Сергеевна",
+    "position": "Менеджер проектов",
+    "birth_date": "1991-03-28",
+    "start_date": "2017-04-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 11
+  },
+  {
+    "id": 39,
+    "full_name": "Лебедева Екатерина Викторовна",
+    "position": "Программист",
+    "birth_date": "1994-11-05",
+    "start_date": "2019-01-20",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 14
+  },
+  {
+    "id": 40,
+    "full_name": "Морозов Сергей Степанович",
+    "position": "Аналитик",
+    "birth_date": "1983-12-10",
+    "start_date": "2010-05-25",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 12
+  },
+  {
+    "id": 41,
+    "full_name": "Волкова Ольга Васильевна",
+    "position": "Менеджер проектов",
+    "birth_date": "1989-08-15",
+    "start_date": "2014-07-30",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 11
+  },
+  {
+    "id": 42,
+    "full_name": "Зайцев Павел Викторович",
+    "position": "Аналитик",
+    "birth_date": "1986-04-10",
+    "start_date": "2016-03-01",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 15
+  },
+  {
+    "id": 43,
+    "full_name": "Попова Наталья Петровна",
+    "position": "Менеджер",
+    "birth_date": "1991-07-14",
+    "start_date": "2018-06-15",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 14
+  },
+  {
+    "id": 44,
+    "full_name": "Сергеева Ольга Дмитриевна",
+    "position": "Специалист по маркетингу",
+    "birth_date": "1995-11-20",
+    "start_date": "2020-02-10",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 14
+  },
+  {
+    "id": 45,
+    "full_name": "Тихонов Андрей Сергеевич",
+    "position": "Разработчик",
+    "birth_date": "1987-02-14",
+    "start_date": "2013-09-22",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 15
+  },
+  {
+    "id": 46,
+    "full_name": "Ромашова Инна Владимировна",
+    "position": "Ассистент",
+    "birth_date": "1993-05-18",
+    "start_date": "2018-03-10",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 12
+  },
+  {
+    "id": 47,
+    "full_name": "Федоров Алексей Петрович",
+    "position": "Инженер",
+    "birth_date": "1989-09-25",
+    "start_date": "2015-11-05",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 14
+  },
+  {
+    "id": 48,
+    "full_name": "Коваленко Татьяна Сергеевна",
+    "position": "Администратор",
+    "birth_date": "1984-12-15",
+    "start_date": "2009-07-08",
+    "photo": "assets/photos/petr_petrov.jpg",
+    "division_id": 15
+  },
+  {
+    "id": 49,
+    "full_name": "Миронов Олег Игоревич",
+    "position": "Аналитик",
+    "birth_date": "1992-06-22",
+    "start_date": "2016-03-12",
+    "photo": "assets/photos/ivan_ivanov.jpg",
+    "division_id": 12
+  },
+  {
+    "id": 50,
+    "full_name": "Зарецкая Мария Николаевна",
+    "position": "Менеджер",
+    "birth_date": "1990-08-12",
+    "start_date": "2017-05-30",
+    "photo": "assets/photos/anna_smirnova.jpg",
+    "division_id": 11
+  }
+]

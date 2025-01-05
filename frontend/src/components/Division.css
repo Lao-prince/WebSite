@@ -1,0 +1,53 @@
+﻿.division-item {
+    padding: 5px 0;
+    color: #333;
+    display: flex;
+    align-items: center;
+  }
+  .toggle-icon {
+    cursor: pointer;
+    margin-right: 8px;
+  }
+  .division-name {
+    flex: 1;
+    cursor: pointer;
+  }
+  .child-list {
+    list-style-type: none; 
+    padding-left: 20px; 
+    margin: 0;
+    transition: max-height 0.3s ease;
+  }
+  .child-list.expanded {
+    max-height: 1000px; 
+  }
+  .division-tree {
+    margin-top: 30px;
+  }
+  ul {
+    list-style-type: none; 
+    padding: 0;           
+    margin: 0;            
+  }
+  .delete-icon {
+    cursor: pointer;
+    color: #e49797;
+    margin-left: 8px;
+  }
+  .edit-input {
+    flex-grow: 1;
+  }
+  .sidebar {
+    position: fixed;
+    width: 250px;
+    height: 95vh;
+    overflow-y: auto;
+  }
+  .selected {
+    background-color: #EDF4FF; 
+    color: #1B76FF;
+    border-radius: 5px;
+  }
+  .parent-selected {
+    color: #1B76FF; 
+  }
